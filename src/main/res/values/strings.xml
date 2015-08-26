@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Radio OM</string>
+
+    <string name="play_btn">Play</string>
+    <string name="stop_btn">Stop</string>
+    <string name="play_btn_description">Play Button</string>
+    <string name="favorite_btn">Favorite Chanels</string>
+    <string name="settings_btn">Settings</string>
+    <string name="record_btn">Record</string>
+    <string name="timer_btn">Set OFF timer</string>
+    <string name="welcome_message">Welcome! Please select a chanel</string>
+    <string name="share_title">Share</string>
+    <string name="share_action_btn">Share</string>
+    <string name="share_text_1">Hello! I\'m listening now </string>
+    <string name="share_text_2"> with Radio Online Moldova, it\'s a cool app. Find it on Play Market</string>
+    <string name="share_app">Hi! Try this app, I like it very much </string>
+    <string name="not_selected">Please select a chanel first</string>
+    <string name="buffering">Buffering</string>
+    <string name="share_question">How do you want to share?</string>
+    <string name="ticker">Buffering </string>
+    <string name="notification_context">Now playing on radio</string>
+    <string name="back_pressed">Press again to exit</string>
+    <string name="notification_icon_description">Chanel Icon</string>
+    <string name="play_button_text">Play</string>
+    <string name="stop_button_text">Stop</string>
+    <string name="chanel_icon_description">Chanel icon</string>
+
+    <string name="APP_ID">1461092934205059</string>
+</resources>

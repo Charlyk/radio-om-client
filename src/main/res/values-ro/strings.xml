@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Radio OM</string>
+
+    <string name="play_btn">Play</string>
+    <string name="stop_btn">Stop</string>
+    <string name="play_btn_description">Butonul play</string>
+    <string name="favorite_btn">Stațiile favorite</string>
+    <string name="settings_btn">Setări</string>
+    <string name="record_btn">Înregistrare</string>
+    <string name="timer_btn">Timer auto-oprire</string>
+    <string name="welcome_message">Salut! Alege-ți o sțatie de radio</string>
+    <string name="share_title">Share</string>
+    <string name="share_action_btn">Share</string>
+    <string name="share_text_1">Salut! Eu ascult acum </string>
+    <string name="share_text_2">prin aplicația Radio Online Moldova. O poți găsi în Play Market</string>
+    <string name="share_app">Salut! Încearca aceasta aplicație, mie îmi place foarte tare</string>
+    <string name="not_selected">Mai intii alegeți o stație de radio</string>
+    <string name="buffering">Buffering</string>
+    <string name="share_question">Cum doriți sa faceți share?</string>
+    <string name="ticker">Buffering </string>
+    <string name="notification_context">Acum cînta la radio</string>
+    <string name="back_pressed">Pentru a ieși apăsați înca odată</string>
+    <string name="notification_icon_description">Emblema stației</string>
+    <string name="play_button_text">Play</string>
+    <string name="stop_button_text">Stop</string>
+    <string name="chanel_icon_description">Emblema statiei</string>
+
+    <string name="APP_ID">1461092934205059</string>
+</resources>
